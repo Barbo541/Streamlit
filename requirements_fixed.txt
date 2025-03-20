@@ -2,5 +2,5 @@ pandas==2.2.3
 pillow==11.1.0
 plotly==6.0.1
 streamlit==1.42.2
-xlsxwriter==latest
+xlsxwriter
 requests==2.32.3
